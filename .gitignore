@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/GetTaskSchedulerHistory/.vs/GetTaskSchedulerHistory/v15/Server/sqlite3
+/GetTaskSchedulerHistory/GetTaskSchedulerHistory/obj/Debug
+/GetTaskSchedulerHistory/.vs/GetTaskSchedulerHistory/v15/.suo
